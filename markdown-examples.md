@@ -39,3 +39,7 @@ An ordered list:
 	- this is a sub item
 	- this is a sub item
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Things   | Stuff    | More     |
+| Things 2 | Stuff 2  | More 2   |
