@@ -10,7 +10,7 @@ This is *italics*.
 
 The following is a block quote:
 
-> this is a blockquote
+> this is a blockquote  
 > this is the second line of a blockquote
 
 I am using `git`.
