@@ -7,11 +7,15 @@
 ```
 ls
 ```
+```
 cd repos/
+```
 ```
 ls
 ```
+```
 cd syslib/
+```
 
 2. Create file
 	- **remember no spaces, only use dashes or camel spacing**
@@ -24,9 +28,12 @@ nano file-name.md
 ```
 git status
 ```
+```
 git add file-name.md
 ```
+```
 git commit - m "added file to get"
+```
 ```
 git push origin main
 ```
