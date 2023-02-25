@@ -5,7 +5,8 @@
 PW Hints
 - Not bojangles
 - Not 1024
-**Remember when entering password, there is no output. DO NOT FRWAK OUT WHEN NOTHING SHOWS UP.**
+
+**Remember when entering password, there is no output. DO NOT FREAK OUT WHEN NOTHING SHOWS UP.**
 
 # Importance of Semicolon
 
