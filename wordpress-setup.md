@@ -3,13 +3,16 @@
 **Login info:**
 
 For installation, use same password as *login.php*
+
 	- See mySQL notes for hint
 
 *NOTE*
+
 	- This review prompted me to review the mySQL notes which was a nice refresher
 	- Make sure to review notes weekly for pertinent info
 
 *Remember*
+
 	- When logged in as root user, there is no need to use the `sudo` command
 
 **Step 4 Notes**
