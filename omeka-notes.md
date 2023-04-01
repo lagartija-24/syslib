@@ -3,13 +3,17 @@
 **Login Info**
 
 Username: Becky
+
 Password: *same as wordpress*
-email: mknoe24@gmail.com
+
+Email: mknoe24@gmail.com
 
 **URLs for for sites**
 
 [Login Screen](http://34.135.201.171/omeka/admin/users/login)
+
 [Admin Dashboard](http://34.135.201.171/omeka/admin)
+
 [My Homepage](http://34.135.201.171/omeka)
 
 ## Mysql Database notes from WP
